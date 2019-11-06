@@ -4,7 +4,7 @@
 * Add the path (where datasets are stored) in the code where os.chdir("") is called.
 * Run the code and get the results will be entered into <i>results.txt</i> file.
 
-### Code Requirements
+## Code Requirements
 
 * Python version 2.7
 * Python libraries
